@@ -1,0 +1,1 @@
+cmd='C:/Program Files/CMAKE/bin/cmake.exe;-GNMake Makefiles;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

@@ -1,0 +1,3 @@
+C:/REPOS/CS23021/pico-apps/tools/picoprobe/build/pioasm/CMakeFiles/pioasm.dir
+C:/REPOS/CS23021/pico-apps/tools/picoprobe/build/pioasm/CMakeFiles/edit_cache.dir
+C:/REPOS/CS23021/pico-apps/tools/picoprobe/build/pioasm/CMakeFiles/rebuild_cache.dir
